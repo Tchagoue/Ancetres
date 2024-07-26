@@ -11,8 +11,18 @@ workshop
   renseignez |choix = 'date'| pour considérer date_generation et, |choix = 'position'| pour considérer n
 # Analyse
   Cette suite géométrique croît extrêmement vite, et met en évidence que dans une communauté (pays, village, clan...)
-  pseudo fermée (avec une population étrangère <10%), il est presque impossible que les mariages entre cousins plus ou moins éloignés
+  pseudo fermée (avec une population étrangère de moins de 0.3%/an ), il serait a priori difficile de croire que les mariages entre cousins plus ou moins éloignés
   n'aient pas eu lieu dans le passé.
 # Task
-  Pour vérifier cette nouvelle considération, pouvez-vous calculer la probabilité que deux personnes prises aléatoirement
-  dans une population de taille P, avec un apport d'étranger de x% par an, aient un ancêtre commun ?
+  Pour vérifier cette Analyse, pouvez-vous calculer la probabilité que deux personnes n'étant pas de la même famille nucléaire, prises aléatoirement en 2024
+  dans une population pseudo-fermée de taille P, avec un apport d'étranger de e% de la population total par an, aient eu q ancêtres communs x siècles plutot.
+  Sachant que la population P croit de c%/an
+  On defini un étranger comme étant, tout individu n'ayant aucune ascendance dans la population P
+
+# Appliquer avec les valeurs des Bamilekes du Cameroun et conclure:
+  - apport d'étranger de 0.02%/ans | e = 0.022
+  - croissance de la population de 2,6%/an | c=2,6
+  - population P = 2,77 millions
+  - Sur 5,10 | x =10
+  - 1,5,10 ancetres communs | q = 1
+
