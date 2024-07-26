@@ -1,3 +1,4 @@
+
 # Ancetres
 workshop
 # En considérant l'hypothèse que les mariages ne se faisaient pas entre personnes parentes :
@@ -16,7 +17,7 @@ workshop
 # Task
   Pour vérifier cette Analyse, pouvez-vous calculer la probabilité que deux personnes n'étant pas de la même famille nucléaire, prises aléatoirement en 2024
   dans une population pseudo-fermée de taille P, avec un apport d'étranger de e% de la population total par an, aient eu q ancêtres communs x siècles plutot.
-  Sachant que la population P croit de c%/an
+  Sachant que la population P croit de c%/an avec un écart d'age moyen entre génération de eg
   On defini un étranger comme étant, tout individu n'ayant aucune ascendance dans la population P
 
 # Appliquer avec les valeurs des Bamilekes du Cameroun et conclure:
@@ -25,4 +26,5 @@ workshop
   - population P = 2,77 millions
   - Sur 5,10 | x =10
   - 1,5,10 ancetres communs | q = 1
+  - écart d'age moyen entre génération de 30 ans | eg = 30
 
