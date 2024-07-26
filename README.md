@@ -16,17 +16,17 @@ workshop
   n'aient pas eu lieu dans le passé.
 # Task
   Pour vérifier cette Analyse, pouvez-vous calculer la probabilité que deux personnes n'étant pas de la même famille nucléaire, prises aléatoirement en 2024
-  dans une population pseudo-fermée de taille P, avec un apport d'étranger de e% de la population total par an, aient eu q ancêtres communs x siècles plutot.
-  Sachant que la population P croit de c%/an avec un écart d'age moyen entre génération de eg
-  On defini un étranger comme étant, tout individu n'ayant aucune ascendance dans la population P
+  dans une population pseudo-fermée de taille **P**, avec un apport d'étranger de **e**% de la population total par an, aient eu **q** ancêtres communs **x** siècles plutot.
+  - Sachant que la population **P** croit de **c**%/an avec un écart d'age moyen entre génération de **eg**
+  - On defini un étranger comme étant, tout individu n'ayant aucune ascendance dans la population P
 
 # Appliquer avec les valeurs des Bamilekes du Cameroun et conclure:
-  - apport d'étranger de 0.02%/ans | e = 0.022
-  - croissance de la population de 2,6%/an | c=2,6
-  - population P = 2,77 millions
-  - Sur 5,10 | x =10
-  - 1,5,10 ancetres communs | q = 1
-  - écart d'age moyen entre génération de 30 ans | eg = 30
+  - apport d'étranger de 0.02%/an | **e** = 0.022
+  - croissance de la population de 2,6%/an | **c**=2,6
+  - population **P** = 2,77 millions
+  - Sur 5,10 | **x** =10
+  - 1,5,10 ancetres communs | **q** = 1
+  - écart d'age moyen entre génération de 30 ans | **eg** = 30
 # Illustration
   - illustration modèle théorique pour un jeune camerounais né en 2000 avec écart d'age moyen parent-enfant : 30 ans.
   - Lien Google Colab  https://colab.research.google.com/drive/1VHuOksjXrub1nWqJBNxOgB_pNNnH6hzV?usp=sharing
