@@ -29,5 +29,6 @@ workshop
   - écart d'age moyen entre génération de 30 ans | eg = 30
 # Illustration
   - illustration modèle théorique pour un jeune camerounais né en 2000 avec écart d'age moyen parent-enfant : 30 ans.
-![image](https://github.com/user-attachments/assets/a71b4801-cb8d-42e5-a3e0-863fb63c1150)
+![image](https://github.com/user-attachments/assets/a09e66bf-2d16-4c35-848b-ce02bce7bce0)
+
 
