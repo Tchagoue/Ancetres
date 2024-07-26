@@ -24,7 +24,7 @@ workshop
   - apport d'étranger de 0.02%/an | **e** = 0.022
   - croissance de la population de 2,6%/an | **c**=2,6
   - population **P** = 2,77 millions
-  - Sur 5,10 | **x** =10
+  - Sur 5, puis 10 siècles| **x** =10
   - 1,5,10 ancetres communs | **q** = 1
   - écart d'age moyen entre génération de 30 ans | **eg** = 30
 # Illustration
