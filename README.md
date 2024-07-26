@@ -5,11 +5,11 @@ workshop
   -Cet algorithme permet de calculer le nombre théorique d'ancêtres que vous avez eu à une génération donnée.
   -Il permet également d'obtenir le nombre total d'ancêtres de votre arbre tronqué à une génération donnée.
 # l'algorithme prend les variables suivantes :
-  date_origine : votre date de naissance
-  age_gap : écart moyen entre les parents et leurs enfants dans votre arbre généalogique
-  date_generation : la date de naissance de la génération de votre arbre généalogique que vous souhaitez investiguer
-  n : le numéro de la génération que vous souhaitez investiguer, renseignez n à défaut de la date_generation, et inversement
-  renseignez |choix = 'date'| pour considérer date_generation et, |choix = 'position'| pour considérer n
+  - date_origine : votre date de naissance
+  - age_gap : écart moyen entre les parents et leurs enfants dans votre arbre généalogique
+  - date_generation : la date de naissance de la génération de votre arbre généalogique que vous souhaitez investiguer
+  - n : le numéro de la génération que vous souhaitez investiguer, renseignez n à défaut de la date_generation, et inversement
+  - renseignez |choix = 'date'| pour considérer date_generation et, |choix = 'position'| pour considérer n
 # Analyse
   Cette suite géométrique croît extrêmement vite, et met en évidence que dans une communauté (pays, village, clan...)
   pseudo fermée (avec une population étrangère de moins de 0.3%/an ), il serait a priori difficile de croire que les mariages entre cousins plus ou moins éloignés
@@ -28,5 +28,5 @@ workshop
   - 1,5,10 ancetres communs | q = 1
   - écart d'age moyen entre génération de 30 ans | eg = 30
 # Illustration
-  - Exemple pour un jeune camerounais né en 2000 avec écart d'age moyen parent-enfant : 30 ans
+  - illustration modèle théorique pour un jeune camerounais né en 2000 avec écart d'age moyen parent-enfant : 30 ans.
 ![image](https://github.com/user-attachments/assets/26ef03d1-cfc9-4911-b109-72d397af4c37)
