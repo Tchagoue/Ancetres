@@ -15,4 +15,4 @@ workshop
   n'aient pas eu lieu dans le passé.
 # Task
   Pour vérifier cette nouvelle considération, pouvez-vous calculer la probabilité que deux personnes prises aléatoirement
-  dans une population de taille P, avec un apport d'étranger de x% par ans, aient un ancêtre commun ?
+  dans une population de taille P, avec un apport d'étranger de x% par an, aient un ancêtre commun ?
