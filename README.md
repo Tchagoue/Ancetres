@@ -28,4 +28,5 @@ workshop
   - 1,5,10 ancetres communs | q = 1
   - écart d'age moyen entre génération de 30 ans | eg = 30
 # Illustration
+  - Exemple pour un jeune camerounais né en 2000 avec écart d'age moyen parent-enfant : 30 ans
 ![image](https://github.com/user-attachments/assets/26ef03d1-cfc9-4911-b109-72d397af4c37)
