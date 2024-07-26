@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/26ef03d1-cfc9-4911-b109-72d397af4c37)
 
 # Ancetres
 workshop
@@ -28,4 +27,5 @@ workshop
   - Sur 5,10 | x =10
   - 1,5,10 ancetres communs | q = 1
   - écart d'age moyen entre génération de 30 ans | eg = 30
-
+# Illustration
+![image](https://github.com/user-attachments/assets/26ef03d1-cfc9-4911-b109-72d397af4c37)
