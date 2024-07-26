@@ -2,8 +2,8 @@
 # Ancetres
 workshop
 # En considérant l'hypothèse que les mariages ne se faisaient pas entre personnes parentes :
-  -Cet algorithme permet de calculer le nombre théorique d'ancêtres que vous avez eu à une génération donnée.
-  -Il permet également d'obtenir le nombre total d'ancêtres de votre arbre tronqué à une génération donnée.
+  - Cet algorithme permet de calculer le nombre théorique d'ancêtres que vous avez eu à une génération donnée.
+  - Il permet également d'obtenir le nombre total d'ancêtres de votre arbre tronqué à une génération donnée.
 # l'algorithme prend les variables suivantes :
   - date_origine : votre date de naissance
   - age_gap : écart moyen entre les parents et leurs enfants dans votre arbre généalogique
